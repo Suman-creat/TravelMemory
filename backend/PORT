@@ -1,0 +1,2 @@
+PORT=3001
+MONGO_URI="mongodb+srv://suman2840contai:VoOsm9KecKS0iXJa@cluster0.xgjws.mongodb.net/travelmemory"
